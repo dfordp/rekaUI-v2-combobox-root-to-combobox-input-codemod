@@ -1,4 +1,4 @@
-Combobox has been refactored and improve to support better custom filtering. 
+Combobox has been refactored and improve to support better custom filtering
 
 ## Example
 
