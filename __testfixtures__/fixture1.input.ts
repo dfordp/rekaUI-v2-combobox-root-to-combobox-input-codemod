@@ -1,5 +1,5 @@
 < template >
   <
-  ComboboxRoot v - model: search - term = "search": display - value = "(v) => v.name" / >
+  ComboboxRoot filter - function = 'customFilter' / >
   <
-  /template>
+  /template>;
